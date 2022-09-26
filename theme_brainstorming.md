@@ -63,6 +63,7 @@
 - 1:1 world scale? or slightly less than to run around faster but dungeons and buildings are 1:1?
 - Action:Turn-based balance
 - Work around restrictive control settings first, expand to pc later
+- Fast travel is a must.
 
 ## More specific design notes
 - notate every assumption and syntax
