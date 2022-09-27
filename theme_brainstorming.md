@@ -60,11 +60,42 @@
 - NPC waiting locations -- in a "party reserve"/central area or everyone goes back to their own homes?
 - Include some formation mechanic for running around open world with a party without D-tier AI
 - Instanced buildings, layered open world including some small terrain
+- Clear map direction and access points a plus
+- World map and compass are good pieces of UI to have
 - 1:1 world scale? or slightly less than to run around faster but dungeons and buildings are 1:1?
 - Action:Turn-based balance
 - Work around restrictive control settings first, expand to pc later
 - Fast travel is a must.
+- Slot-based inventory to support dungeon delving and exploration
+- I don't want to implement a crafting system
+- The power of drops gained from exploration should be better than items you can get from a merchant at the same time in the game
+- Full keybind control and clear settings menu
 
 ## More specific design notes
 - notate every assumption and syntax
 - clear descriptions 
+
+# Combat-Specific Ideas
+## Overlying design & Layout
+- 2? Weapon skills, a total of 3? class/race skills
+- Race skills should have awful scaling so they are less favored but speccing into them to keep them viable should be an option
+- Any inclusion of common skills?
+- Weapon skills are unique per class, even for the same weapon
+- All skills should be cooldown based
+- Some offensive, some defensive class skills
+- Personal healing skill? yes/no? Some consumable? (also with a cooldown, or have it be a heal over time effect)
+- There should be an autoattack chain (in the 1 skill slot) rewarding weaving in skills with autos
+- A couple families of skills per class that can be improved by levelling
+- A mix of specific augmentations and general buffs as level rewards
+- Skill trees that don't lock off, but do reward depth into them and by "max level" (level reached by slightly after the end of the main quest) you should finish 2? skill trees if you fully spec into them
+- Including control effects and damage over time, both on weapon strikes and on class skills, albeit sparingly but a viable path to spec into it
+- The fewer animation locks the better, but some things should have cast times
+- I would like to consider some kind of dodge roll mechanic
+- Heal rapidly out of combat, none of this wait spamming between fights
+
+## Targeting
+- Tab to set target enemy, can also click on them
+- Next target/detarget should be both be possible
+- Action for melee skills - stick or mouse direction
+- AoEs - Lock to target or cast on mouse
+- Projectiles are cast locked on target or in the direction of mouse if no target
