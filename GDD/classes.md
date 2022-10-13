@@ -1,5 +1,5 @@
 # Class philosophy
-- 6 classes, at level X you have the option of moving to an advanced class, or continuing on as a greater core class (name to be changed)
+- 7 classes, at level X you have the option of moving to an advanced class, or continuing on as a greater core class (name to be changed)
 - Each advanced class gains one weapon, and loses 1 weapon with only an addition of advanced class skills, the removal of no skills
 - I'm not sure how much of a role lock I want to do for each class, I'm much more concerned in each class feeling different to play
 - I think many mob drops will have to relate to some sort of crafting system or purchase system so the player can get the weapon type they want

@@ -2,6 +2,7 @@
 - Mosquitos
 - Any playable race -- bandids/cultists/etc.
 - Rats
+- Snails
 
 ## Mystical trash mobs
 - Selkie
