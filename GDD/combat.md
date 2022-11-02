@@ -38,3 +38,10 @@
 - each consumable will have a global cooldown on it, in addition to it either being a purchased, found, or crafted (?) thing
 - restorative, offensive, defensive, and utility options are all available for consumables
 - a skill may cost a mix of class energy and having a cooldown
+
+# The party.
+- 4 total on the field at a time
+- any collection component?
+- Player does not get to control growth outside of specialization, but gets to control current build
+- Each NPC has their own set class and stat growth spread, player gets to set active builds for all party members
+- all party members use skills off cooldown with some basic priority
